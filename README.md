@@ -47,11 +47,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 | G | CAS  | Asia           |
 | H | COC  | Oceania        |
 
-<iframe src="flowers.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
